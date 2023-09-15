@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Enumkavrami\bin\Debug\net6.0\Enumkavrami.exe
+C:\Users\User\Desktop\Enumkavrami\bin\Debug\net6.0\Enumkavrami.deps.json
+C:\Users\User\Desktop\Enumkavrami\bin\Debug\net6.0\Enumkavrami.runtimeconfig.json
+C:\Users\User\Desktop\Enumkavrami\bin\Debug\net6.0\Enumkavrami.dll
+C:\Users\User\Desktop\Enumkavrami\bin\Debug\net6.0\Enumkavrami.pdb
+C:\Users\User\Desktop\Enumkavrami\obj\Debug\net6.0\Enumkavrami.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Enumkavrami\obj\Debug\net6.0\Enumkavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Enumkavrami\obj\Debug\net6.0\Enumkavrami.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Enumkavrami\obj\Debug\net6.0\Enumkavrami.AssemblyInfo.cs
+C:\Users\User\Desktop\Enumkavrami\obj\Debug\net6.0\Enumkavrami.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Enumkavrami\obj\Debug\net6.0\Enumkavrami.dll
+C:\Users\User\Desktop\Enumkavrami\obj\Debug\net6.0\refint\Enumkavrami.dll
+C:\Users\User\Desktop\Enumkavrami\obj\Debug\net6.0\Enumkavrami.pdb
+C:\Users\User\Desktop\Enumkavrami\obj\Debug\net6.0\Enumkavrami.genruntimeconfig.cache
+C:\Users\User\Desktop\Enumkavrami\obj\Debug\net6.0\ref\Enumkavrami.dll
